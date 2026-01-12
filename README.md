@@ -61,13 +61,13 @@ Le projet est divisé en **11 étapes progressives**. Chaque fichier `Projet-Sat
 
 ### ✨ Finalisation (Étapes 9 à 10)
 * **Étape 9** : Optimisation des couleurs et des rayons pour un rendu plus fin.
-  <img width="760" height="428" alt="Saturne9" src="https://github.com/user-attachments/assets/f93c54bc-c7ca-4a5c-aacb-a2d9e41594bf" />
+  <img width="760" height="428" alt="Saturne9" src="https://github.com/user-attachments/assets/1c54e22f-e084-451a-b121-df747885e39d" />
 * **Étape 10** : Ajout du fond étoilé pour l'intégration finale dans l'espace.
   <img width="760" height="428" alt="Saturne10" src="https://github.com/user-attachments/assets/88b92102-cf27-4fd1-819d-d18d729b0c99" />
 
 ## 🏁 Rendu Final (Avec environnement)
 <img width="760" height="428" alt="Saturne10etoile" src="https://github.com/user-attachments/assets/2bb07d82-6cf8-4529-87b0-c1811ead66a8" />
-## 👤 Auteur
+
 
 
 
