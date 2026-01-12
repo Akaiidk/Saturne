@@ -66,7 +66,7 @@ Le projet est divisé en **11 étapes progressives**. Chaque fichier `Projet-Sat
   <img width="760" height="428" alt="Saturne10" src="https://github.com/user-attachments/assets/88b92102-cf27-4fd1-819d-d18d729b0c99" />
 
 ### 🏁 Rendu Final
-* **Étape 9** : Ajout du fond
+* **Étape 11** : Ajout du fond
 <img width="760" height="428" alt="Saturne10etoile" src="https://github.com/user-attachments/assets/2bb07d82-6cf8-4529-87b0-c1811ead66a8" />
 
 
