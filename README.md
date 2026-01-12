@@ -36,12 +36,18 @@ Le projet est divisé en **11 étapes progressives**. Chaque fichier `Projet-Sat
 - `Saturne.bmp` : Le résultat final généré.
 
 ##📸 Aperçu
-[Saturne10etoile.bmp](https://github.com/user-attachments/files/24555784/Saturne10etoile.bmp)
-[Saturne9.bmp](https://github.com/user-attachments/files/24555783/Saturne9.bmp)
-[Saturne6.bmp](https://github.com/user-attachments/files/24555782/Saturne6.bmp)
-[Saturne5.bmp](https://github.com/user-attachments/files/24555780/Saturne5.bmp)
-[Saturne4.bmp](https://github.com/user-attachments/files/24555779/Saturne4.bmp)
-[Saturne1.bmp](https://github.com/user-attachments/files/24555778/Saturne1.bmp)
+<img width="760" height="428" alt="Saturne10etoile" src="https://github.com/user-attachments/assets/2bb07d82-6cf8-4529-87b0-c1811ead66a8" />
+<img width="760" height="428" alt="Saturne10" src="https://github.com/user-attachments/assets/88b92102-cf27-4fd1-819d-d18d729b0c99" />
+<img width="760" height="428" alt="Saturne9" src="https://github.com/user-attachments/assets/f93c54bc-c7ca-42f9-9409-3bc6c06af7e4" />
+<img width="760" height="428" alt="Saturne8" src="https://github.com/user-attachments/assets/281e62bc-c7ca-4a5c-aacb-a2d9e41594bf" />
+<img width="760" height="428" alt="Saturne7" src="https://github.com/user-attachments/assets/dc3f16a5-5527-4923-8544-95eaef64e97a" />
+<img width="760" height="428" alt="Saturne6" src="https://github.com/user-attachments/assets/de95d3da-fbbc-477e-b002-bc159c36de70" />
+<img width="760" height="428" alt="Saturne5" src="https://github.com/user-attachments/assets/b8a06c57-ec24-4523-a2ed-330c275b2e85" />
+<img width="760" height="428" alt="Saturne4" src="https://github.com/user-attachments/assets/b529ce0f-f265-43ce-b997-7cabd7d5efcb" />
+<img width="760" height="428" alt="Saturne3" src="https://github.com/user-attachments/assets/874d8821-ebb8-42fd-b254-e4f972fadcc8" />
+<img width="760" height="428" alt="Saturne2" src="https://github.com/user-attachments/assets/ff12862b-9392-4441-9942-ea40a557332f" />
+<img width="760" height="428" alt="Saturne1" src="https://github.com/user-attachments/assets/de56867c-fd10-4d8c-8788-d9de443bcbf4" />
+
 
 
 ## ⚙️ Compilation et Exécution
