@@ -35,7 +35,7 @@ Le projet est divisé en **11 étapes progressives**. Chaque fichier `Projet-Sat
 - `Geometrie.h` & `Couleur.h` : Fonctions mathématiques pour les formes et les dégradés.
 - `Saturne.bmp` : Le résultat final généré.
 
-##📸 Aperçu
+## 📸 Aperçu
 
 ### 🌑 Fondations et Sphère (Étapes 1 à 3)
 * **Étape 1** : Initialisation du canevas et définition de la couleur de fond.
