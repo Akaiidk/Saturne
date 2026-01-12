@@ -40,32 +40,33 @@ Le projet est divisé en **11 étapes progressives**. Chaque fichier `Projet-Sat
 ### 🌑 Fondations et Sphère (Étapes 1 à 3)
 * **Étape 1** : Initialisation du canevas et définition de la couleur de fond.
   <img width="760" height="428" alt="Saturne1" src="https://github.com/user-attachments/assets/de56867c-fd10-4d8c-8788-d9de443bcbf4" />
-* **Étape 2** : Tracé du premier disque plein représentant le corps de la planète.
+* **Étape 2** : Mise en place des premiers dégradés pour simuler le volume de la planète.
   <img width="760" height="428" alt="Saturne2" src="https://github.com/user-attachments/assets/ff12862b-9392-4441-9942-ea40a557332f" />
-* **Étape 3** : Application des dégradés de couleurs pour simuler la lumière et le volume.
+* **Étape 3** : Ébauche des premiers anneaux horizontaux.
   <img width="760" height="428" alt="Saturne3" src="https://github.com/user-attachments/assets/874d8821-ebb8-42fd-b254-e4f972fadcc8" />
 
 ### 💍 Construction des Anneaux (Étapes 4 à 5)
-* **Étape 4** : Création des premiers anneaux circulaires simples.
+* **Étape 4** : Définition des contours supérieurs des anneaux.
   <img width="760" height="428" alt="Saturne4" src="https://github.com/user-attachments/assets/b529ce0f-f265-43ce-b997-7cabd7d5efcb" />
-* **Étape 5** : Inclinaison des ellipses pour donner une perspective réaliste.
+* **Étape 5** : Définition des contours inférieurs.
   <img width="760" height="428" alt="Saturne5" src="https://github.com/user-attachments/assets/b8a06c57-ec24-4523-a2ed-330c275b2e85" />
 
 ### 🌗 Gestion de l'Espace et des Ombres (Étapes 6 à 8)
 * **Étape 6** : Gestion de la superposition (les anneaux passent derrière la planète).
   <img width="760" height="428" alt="Saturne6" src="https://github.com/user-attachments/assets/de95d3da-fbbc-477e-b002-bc159c36de70" />
-* **Étape 7** : Calcul et affichage de l'ombre portée de Saturne sur ses anneaux.
+* **Étape 7** : étail des anneaux avec la séparation entre le Grand Anneau (GA) et le Petit Anneau (PA).
   <img width="760" height="428" alt="Saturne7" src="https://github.com/user-attachments/assets/dc3f16a5-5527-4923-8544-95eaef64e97a" />
-* **Étape 8** : Détail des anneaux avec la séparation entre le Grand Anneau (GA) et le Petit Anneau (PA).
+* **Étape 8** : Utilisation de la planète utilisant le dégradé de couleur.
   <img width="760" height="428" alt="Saturne8" src="https://github.com/user-attachments/assets/281e62bc-c7ca-4a5c-aacb-a2d9e41594bf" />
 
 ### ✨ Finalisation (Étapes 9 à 10)
-* **Étape 9** : Optimisation des couleurs et des rayons pour un rendu plus fin.
+* **Étape 9** : Affinement des textures et des nuances de couleurs sur les anneaux
   <img width="760" height="428" alt="Saturne9" src="https://github.com/user-attachments/assets/1c54e22f-e084-451a-b121-df747885e39d" />
-* **Étape 10** : Ajout du fond étoilé pour l'intégration finale dans l'espace.
+* **Étape 10** : Création de l'ombre derrière la planète.
   <img width="760" height="428" alt="Saturne10" src="https://github.com/user-attachments/assets/88b92102-cf27-4fd1-819d-d18d729b0c99" />
 
-## 🏁 Rendu Final (Avec environnement)
+## 🏁 Rendu Final
+* **Étape 9** : Ajout du fond
 <img width="760" height="428" alt="Saturne10etoile" src="https://github.com/user-attachments/assets/2bb07d82-6cf8-4529-87b0-c1811ead66a8" />
 
 
