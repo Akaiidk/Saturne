@@ -60,13 +60,13 @@ Le projet est divisé en **11 étapes progressives**. Chaque fichier `Projet-Sat
   <img width="760" height="428" alt="Saturne8" src="https://github.com/user-attachments/assets/281e62bc-c7ca-4a5c-aacb-a2d9e41594bf" />
 
 ### ✨ Finalisation (Étapes 9 à 10)
-* **Étape 9** : Affinement des textures et des nuances de couleurs sur les anneaux
+* **Étape 9** : Affinement des textures et des nuances de couleurs sur les anneaux.
   <img width="760" height="428" alt="Saturne9" src="https://github.com/user-attachments/assets/1c54e22f-e084-451a-b121-df747885e39d" />
 * **Étape 10** : Création de l'ombre derrière la planète.
   <img width="760" height="428" alt="Saturne10" src="https://github.com/user-attachments/assets/88b92102-cf27-4fd1-819d-d18d729b0c99" />
 
 ### 🏁 Rendu Final
-* **Étape 11** : Ajout du fond
+* **Étape 11** : Ajout du fond.
   <img width="760" height="428" alt="Saturne10etoile" src="https://github.com/user-attachments/assets/2bb07d82-6cf8-4529-87b0-c1811ead66a8" />
 
 
